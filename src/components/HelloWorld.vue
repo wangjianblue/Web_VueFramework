@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
-     <h2>你好啊</h2>
+     <h2>你好啊V2.3</h2>
     <ul>
       <li>
         <a
